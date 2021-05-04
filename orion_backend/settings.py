@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'wsgoqfji=wr21#!g46og%xj6n27b%#o9dianpuxn3&%)8!3$rx'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1',"orionbackend.herokuapp.com/",]
 
